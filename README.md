@@ -37,44 +37,48 @@ Dan berikut adalah hasilnya :
 
 
 
-Jika memilih opsi C = Menambah data maka akan tampil sebagai berikut :
+> Jika memilih opsi C = Menambah data maka akan tampil sebagai berikut :
+
 ![image](https://user-images.githubusercontent.com/115475424/204117132-b6cddca8-1e9f-49b1-815e-7ebe909fd42f.png)
 
 
 
 
-Jika memilih opsi R = Melihat semua data maka akan tampil sebagai berikut :
+> Jika memilih opsi R = Melihat semua data maka akan tampil sebagai berikut :
+
 ![image](https://user-images.githubusercontent.com/115475424/204117164-82cd3be7-7bed-4131-b9b8-d4d09af5af24.png)
 
 
 
-Jika memilih opsi U = mengupdate data maka akan tampil sebagai berikut :
+> Jika memilih opsi U = mengupdate data maka akan tampil sebagai berikut :
 
 ![image](https://user-images.githubusercontent.com/115475424/204117199-31a2fbdd-74ac-4fd0-96e6-5c2ff5d9562e.png)
 
 
-Tampilan setelah di Update
+> Tampilan setelah di Update
 
 ![image](https://user-images.githubusercontent.com/115475424/204117206-c76c2d26-2c3e-48ca-a98a-e576d42d8f15.png)
 
 
 
 
-Jika memilih opsi D = Menghapus data maka akan tampil sebagai berikut :
+> Jika memilih opsi D = Menghapus data maka akan tampil sebagai berikut :
 
 ![image](https://user-images.githubusercontent.com/115475424/204117927-05a81edb-3a3a-443c-bbce-4d9467a204af.png)
 
 
 
 
-Jika memilih opsi F = Mencari data maka akan tampil sebagai berikut :
+> Jika memilih opsi F = Mencari data maka akan tampil sebagai berikut :
+
 ![image](https://user-images.githubusercontent.com/115475424/204117947-5266db09-aff2-4a28-a617-9e618ffadbe1.png)
 
 
 
 
 
-Jika memilih opsi Q = Keluar Program maka akan tampil sebagai berikut :
+> Jika memilih opsi Q = Keluar Program maka akan tampil sebagai berikut :
+
 ![image](https://user-images.githubusercontent.com/115475424/204117957-03d4c351-be13-474a-be8b-e24b5ae90dc6.png)
 
 
