@@ -1,11 +1,11 @@
 # PRAKTIKUM 5
-## Latihan Dictionary pada Python membuat progra crud sederhana
+## Latihan Dictionary pada Python membuat program crud sederhana
 
 1. Pertama buat folder Praktikum5 dan didalam kita buat file Latihan1.py dan Praktikum.py
+
 ![image](https://user-images.githubusercontent.com/115475424/204078891-1e532c2c-3466-4b1b-9c1d-5bfb52637846.png)
 
 2. Kemudian buka Latihan1.py dan masukan coding sebagai berikut :
-
 
 ![image](https://user-images.githubusercontent.com/115475424/204078825-c29b8fbe-ba07-4128-9620-21a112b9be62.png)
 ![image](https://user-images.githubusercontent.com/115475424/204078845-a806db0f-cc3a-48eb-b0a4-6f4f16806a5e.png)
@@ -30,6 +30,7 @@ Dan berikut adalah hasilnya :
 
 
 Dan berikut adalah hasilnya :
+
 ![image](https://user-images.githubusercontent.com/115475424/204117110-8e0dd23a-a979-4bcc-ad73-11c26b6e5811.png)
 
 
@@ -48,7 +49,11 @@ Jika memilih opsi R = Melihat semua data maka akan tampil sebagai berikut :
 
 
 Jika memilih opsi U = mengupdate data maka akan tampil sebagai berikut :
+
 ![image](https://user-images.githubusercontent.com/115475424/204117199-31a2fbdd-74ac-4fd0-96e6-5c2ff5d9562e.png)
+
+
+Tampilan setelah di Update
 
 ![image](https://user-images.githubusercontent.com/115475424/204117206-c76c2d26-2c3e-48ca-a98a-e576d42d8f15.png)
 
@@ -57,12 +62,21 @@ Jika memilih opsi U = mengupdate data maka akan tampil sebagai berikut :
 
 Jika memilih opsi D = Menghapus data maka akan tampil sebagai berikut :
 
+![image](https://user-images.githubusercontent.com/115475424/204117927-05a81edb-3a3a-443c-bbce-4d9467a204af.png)
+
+
 
 
 Jika memilih opsi F = Mencari data maka akan tampil sebagai berikut :
+![image](https://user-images.githubusercontent.com/115475424/204117947-5266db09-aff2-4a28-a617-9e618ffadbe1.png)
+
+
+
 
 
 Jika memilih opsi Q = Keluar Program maka akan tampil sebagai berikut :
+![image](https://user-images.githubusercontent.com/115475424/204117957-03d4c351-be13-474a-be8b-e24b5ae90dc6.png)
+
 
 
 
